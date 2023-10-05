@@ -1,6 +1,7 @@
 #include <stdio.h>
 /*
  * main - main block
+ * Description: 'what?'
  * Return: 0
  */
 int main(void)
