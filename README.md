@@ -1,2 +1,2 @@
 # alx-low_level_programming
-Twin two
+Singly linked lists
